@@ -39,7 +39,7 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 128,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.7.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dsc-1952-128x85.png",
@@ -50,7 +50,49 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "siteFonts": [
+      {
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
+        "name": "Rubik",
+        "css": "'Rubik', sans-serif"
+      },
+      {
+        "css": "'Open Sans Condensed', sans-serif",
+        "name": "Open Sans Condensed",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700"
+      },
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      },
+      {
+        "css": "'Roboto Mono', monospace",
+        "name": "Roboto Mono",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Mono:100,100i,300,300i,400,400i,500,500i,700,700i"
+      },
+      {
+        "css": "'Anton', sans-serif",
+        "name": "Anton",
+        "url": "https://fonts.googleapis.com/css?family=Anton:400"
+      },
+      {
+        "css": "'Monoton', display",
+        "name": "Monoton",
+        "url": "https://fonts.googleapis.com/css?family=Monoton:400"
+      },
+      {
+        "css": "'Cutive Mono', monospace",
+        "name": "Cutive Mono",
+        "url": "https://fonts.googleapis.com/css?family=Cutive+Mono:400"
+      },
+      {
+        "css": "'Mallanna', sans-serif",
+        "name": "Mallanna",
+        "url": "https://fonts.googleapis.com/css?family=Mallanna:400"
+      }
+    ]
   },
   "pages": {
     "index.html": {
