@@ -39,7 +39,7 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 128,
-    "versionPublish": "4.7.7",
+    "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dsc-1952-128x85.png",
